@@ -1,4 +1,4 @@
-# Auto_Tor_IP_changer V 2.1
+# Auto_Tor_IP_changer V 2.1 [Fixed Error Show ip]
 change your Ip Address automatically  This tool based on tor project
 
 
